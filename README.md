@@ -1,2 +1,4 @@
 # hello-world
-Just a try
+Hi,everyone!
+
+Fizzzzzzzz hear, I want to learn Python.
