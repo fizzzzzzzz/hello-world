@@ -1,4 +1,5 @@
 # hello-world
-Hi,everyone!
 
-Fizzzzzzzz hear, I want to learn Python.
+
+学习python同时熟悉github 
+放一些有的没的东西
