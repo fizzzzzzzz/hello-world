@@ -1,0 +1,9 @@
+ex50 出现如下错误
+Traceback (most recent call last):
+  File "bin/app.py", line 1, in <module>
+    import web
+  File "D:\program\python35\lib\site-packages\web\__init__.py", line 14, in <module>
+    import utils
+ImportError: No module named 'utils'
+
+网上没找到解决办法，有人说是因为版本问题web.py不支持python3.x 所以这一节就先放着吧。。。
