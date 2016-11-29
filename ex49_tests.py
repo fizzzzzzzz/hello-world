@@ -11,5 +11,6 @@ def test_peek():
 	p = game.peek([])
 	assert_equal(p,None)
 	
-def test_parse_verb():
+def test_parse_verb():   # 异常测试	
 	assert_raises(game.ParserError,game.parse_verb,[('noun','apple')])
+	
