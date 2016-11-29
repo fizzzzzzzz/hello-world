@@ -1,5 +1,7 @@
-# hello-world
+# learn python
 
 
 学习python同时熟悉github 
+
+
 放一些有的没的东西
