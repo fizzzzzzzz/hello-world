@@ -23,7 +23,6 @@ def inputnum(msg):
 			if ninput > 1 and ninput < 100:
 				return ninput
 			print('超出范围')
-			continue
 		except Exception as err:
 			print('类型错误，请重新输入')
 	
