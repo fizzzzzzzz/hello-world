@@ -40,6 +40,6 @@ print(networknodes)
 
 connodes = []
 for coninfo in coninfos:
-	connodes.append(list(map(eval, coninfo.split())))
+	connodes.append(list(map(eval, coninfo.split())))       # string to int
 	
 print(connodes)
