@@ -15,7 +15,7 @@ selenium.common.exceptions.WebDriverException: Message: 'geckodriver' executable
 Selenium3有了一些比较大的改变，其中之一就是Webdriver从浏览器中分离出来了，所以需要单独安装。
 
 解决方法：
-安装 Firefox geckodriver  https://github.com/mozilla/geckodriver/releases 下载完不用安装，解压缩即可
+安装 Firefox geckodriver  [下载地址]（https://github.com/mozilla/geckodriver/releases） 下载完不用安装，解压缩即可
 将解压缩后的目录和Firefox的目录添加到环境变量中 
 
-解决方法原文 https://segmentfault.com/a/1190000007249396
+[解决方法原文](https://segmentfault.com/a/1190000007249396)
