@@ -1,4 +1,5 @@
-﻿def hanoi(n, x, y, z):
+﻿'''转变思考方式，活用n-1'''
+def hanoi(n, x, y, z):
 	global step  #步数
 	if n==1 :
 		print(x, ' --> ', z)
